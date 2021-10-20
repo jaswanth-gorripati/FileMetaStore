@@ -1,5 +1,10 @@
 # FilesMetaStore
 
+> Note : Before starting this project make sure below softwares are installed 
+- Golang
+- Docker
+- Docker-compose
+
 ### Pre requirements
 
 - Download the binaries 
